@@ -56,11 +56,8 @@ caesar_cipher/
 │── venv/         # Virtual environment (ignored in Git)
 
 Example Run
-   ____                         ____  _           
-  / ___|__ _  ___ ___  ___ ___ / ___|| |__   ___  
- | |   / _` |/ __/ _ \/ __/ __|\___ \| '_ \ / _ \ 
- | |__| (_| | (_|  __/\__ \__ \ ___) | | | |  __/ 
-  \____\__,_|\___\___||___/___/|____/|_| |_|\___| 
+
+LOGO
 
 Type 'encode' to encrypt, type 'decode' to decrypt:
 encode
